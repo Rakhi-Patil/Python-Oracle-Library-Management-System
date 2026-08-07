@@ -38,7 +38,6 @@ Python-Oracle-Library-Management-System/
 ├── database.py
 │
 ├── library.sql
-├── requirements.txt
 ├── README.md
 │
 └── screenshots/
